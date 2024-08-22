@@ -26,6 +26,7 @@ A meta deste projeto é através de uma exploração dos dados identificar tend�
 **Uma pequena observação**: Como o conjunto de dados é simulado, irei utilizar como moeda o Real Brasileiro. 
 
 ### Resultados
+[Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTUzZDRhODItNWFlOC00ODRjLWJkOWYtOWM0MGMyNzUzZjBjIiwidCI6ImJmOWUzNDgwLTkyM2UtNDNmMS04OTE1LTlmMmY3YjY2NTc0MSJ9)
 #### Sobre os produtos
 
 - Os Produtos 63, 81, 97, 56,  4, 10, 92,  6, 45, 74 são os que apresentam maior quantidade de defeitos;
@@ -45,7 +46,7 @@ A meta deste projeto é através de uma exploração dos dados identificar tend�
 Vejo a necessidade de realizar um mapeamento do processo de produção e aplicar processos de controle de qualidade como o DMAIC do Six Sigma, para buscar a causa raíz das falhas estrurais na produção dos componentes de Superfície dos produtos. Um caminho apontado pela análise é começar pela investigação do que vem causando os ciclos de aumento e queda do número de defeitos nos Produtos com foco (1) em defeitos de severidade crítica, (2) defeitos do tipo estrurais que estão em tendência de crescimento, antes que os outros aspectos também aumentem a frequência de defeitos, e (3) nos defeitos na superfície dos produtos. 
 
 ## Ferramentas utilizadas
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Biblitoecas Python utilziadas
 #### Manipulação de dados
